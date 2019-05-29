@@ -1,18 +1,49 @@
+<!DOCTYPE HTML>
 <html>
 
 <head>
-<title><strong>简历</strong></title>
+  <meta charset="utf-8"/>
+    <title>MIA</title> 
 </head>
 
 <body>
-<p>姓名：Mia</p>
-<p>联系方式：11033445678</p> 
+<h1>简历</h1>
+<hr/>
+<h3><strong>自我介绍<strong></h3>
+<ul>
+    <li>姓名：Mia</li>
+    <li>专业：魔法</li>
+    <li>学校：霍格沃茨魔法学校</li>
+    <li>联系方式：1342918628@qq.com</li>
+</ul>
+<hr/>
  
-<p><strong>技能</strong></p> 
-<h1>SPSS</h1>
-<h2>Matlab</h2>
-<h3>Excel</h3>
-<p>项目经验</p>
+<h3><strong>课程设置</strong><h3>
+  
+    <p>《黑魔法防御术》、《魔咒课》、《变形课》、《草药课》《飞行课》...</p>
+    <p> (Defense Against the Dark Arts, Charms, Transfiguration, Herbology，Flying...) </p>
+
+<hr/>
+<h3>项目经验</h3>
+   <ol>
+    	<li>魔法石项目，the Philosopher's Stone project </li>
+    	<li>密室项目，the Chamber of Secrets project </li>
+    	<li>阿兹卡班囚徒项目，the Prisoner of Azkaban project </li>
+     <li>火焰杯项目，the Goblet of Fire project </li>
+     <li>凤凰社项目，the Order of the Phoenix project </li>
+     <li>混血王子项目，the Half-Blood Prince project </li>
+     <li>死亡圣器项目，the Deathly Hallows project） </li>
+    </ol>
+<hr/>
+  
+<h3>兴趣爱好</h3>
+<ul>
+  <li>魁地奇球赛</li>
+  <li>光轮2000</li>
+  <ul>
+    
+
+    
 </body>
 
 </html>
