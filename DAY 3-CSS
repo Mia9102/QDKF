@@ -1,0 +1,39 @@
+h1{
+    text-align:center;
+    font-weight:bold;
+    color:black;
+    font-family:serif;
+    background-color:#48D1CC;
+    color:#F0F8FF
+  }
+
+body
+   {
+     color:black;
+     font-family:'Courier New', Courier, monospace；
+     
+   }
+
+h3 {
+    font-size: 16px;
+    color:#48D1CC;
+    text-align:left;
+    text-decoration:none;
+    line-height:100%
+  }
+
+p {
+    color:black;
+    text-indent: 5em;
+    white-space: normal;
+    font-family:'Courier New', Courier, monospace；
+    font-size:120%;
+    font-variant:small-caps;
+    
+  
+}
+
+
+h3 {  
+     
+}
