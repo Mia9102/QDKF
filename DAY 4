@@ -1,0 +1,83 @@
+/* 基本的h1样式 */
+h1{
+    text-align:center;
+    font-weight:bold;
+    color:black;
+    font-family:serif;
+    background-color:#48D1CC;
+    color:#F0F8FF
+  }
+/* 基本的body样式 */
+body
+   {
+     color:black;
+     font-family:'Courier New', Courier, monospace；
+     background-image:url(/i/eg_bg_04.gif); 
+   }
+/* 基本的h3样式 */
+h3 {
+    font-size: 16px;
+    color:#48D1CC;
+    text-align:left;
+    text-decoration:none;
+    line-height:100%
+  }
+/* 链接样式 */
+a:link {text-decoration:none;}
+/* 基本的段落样式 */
+p {
+    color:black;
+    text-indent: 5em;
+    white-space: normal;
+    font-family:'Courier New', Courier, monospace；
+    font-size:120%;
+    font-variant:small-caps;
+    background-image: url(https://mdn.mozillademos.org/files/13026/fire-ball-icon.png);
+    background-repeat: no-repeat;
+    background-position: 2% center;  
+}
+/* 基本的ul样式 */
+ul{ font-family: Times, "Times New Roman", serif;     
+}
+
+/* 基本的ol样式 */
+ol {font-family:'Courier New', Courier, monospace； 
+}
+/* 基本的table样式 */
+table {
+  font: 1em sans-serif;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* 所有在table里的td以及th，这里的逗号不是一个组合器，
+它只是允许你把几个选择器对应到相同的CSS规则上.*/
+table td, table th {
+  border : 1px solid black;
+  padding: 0.5em 0.5em 0.4em;
+}
+
+/* 所有table里的thead里的所有th */
+table thead th {
+  color: white;
+  background: black;
+}
+
+/* 所有table里的tbody里的所有td（第一个除外），每个td都是由它上边的td选择 */
+table tbody td + td {
+  text-align: center;
+}
+
+/*table里所有的tbody里的td当中的最后一个 */
+table tbody td:last-child {
+  text-align: left
+}
+
+
+/* 在table当中，所有的th之后的td */
+table th + td {
+  text-align: right;
+  border-top-width: 5px;
+  color: white;
+  background: black;
+}
