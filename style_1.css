@@ -1,0 +1,15 @@
+a {
+	color: #00f;
+	text-decoration: underline;
+}
+body {
+    width: 100%;
+}
+.details span{
+    font-weight: bold;
+    padding-right: 10px;
+}
+.work span{
+    font-weight: bold;
+    padding-right: 10px;
+}

@@ -1,0 +1,31 @@
+a {
+	color: #00f;
+	text-decoration: underline;
+}
+body {
+    width: 100%;
+}
+.details span{
+    font-weight: bold;
+    padding-right: 10px;
+}
+.work span{
+    font-weight: bold;
+    padding-right: 10px;
+}
+h1{
+    text-align: center;	
+	color: #fff;
+}
+.left-box{
+    float: left;
+    width:10%;
+    padding-bottom: 30%;
+    padding-top: 5%;
+    margin-right: 40px;
+    background-color: #09f
+}
+h2{ padding-bottom: 20px;
+    padding-top: 20px;
+
+}
